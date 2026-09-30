@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("%s\n", "lab0");
+    printf("lab0 feature\n");
 }
